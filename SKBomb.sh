@@ -1,4 +1,3 @@
-# Sk
 #!/bin/bash
 clear
 echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
@@ -31,7 +30,7 @@ toilet -f mono12 -F border SpeedX
 echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Gyana>
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -97,18 +96,19 @@ echo "         [-] Ping At: http://wa.me/917600140353"
 echo -e "\e[1;33m      [*]  Rieltar   \e[1;31m"
 echo "         [-] Ping At: https://t.me/Rieltar"
 echo -e "\e[1;33m      [*]  0n1cOn3 (Stefan)   \e[1;31m"
-echo "         [-] Mail At: 0n1cOn3@gmx.ch"echo ""
+echo "         [-] Mail At: 0n1cOn3@gmx.ch"
 echo ""
-echo -e "\e[1;31m This Script is Only For Educational Purposes or>
+echo ""
+echo -e "\e[1;31m This Script is Only For Educational Purposes or To Prank.\e[0m"
 echo -e "\e[1;31m Do not Use This To Harm Others. \e[0m"
-echo -e "\e[1;31m I Am Not Responsible For The Misuse Of The Scri>
-echo -e "\e[1;32m Make Sure To Update it If It Does not Work.\e[0>
+echo -e "\e[1;31m I Am Not Responsible For The Misuse Of The Script. \e[0m"
+echo -e "\e[1;32m Make Sure To Update it If It Does not Work.\e[0m"
 echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Gyana>
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -121,7 +121,7 @@ toilet -f mono12 -F border SpeedX
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/Gyana>
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
 echo " "
 exit 0
 else
