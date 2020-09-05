@@ -1,4 +1,4 @@
-#TBomb v1.7b
+# TBomb v1.7b
 
 An open-source SMS/call bomber for Linux And Termux.
 
@@ -32,7 +32,7 @@ Easy to use and embed in code
 Usage:
 Run these commands to run TBomb
 
-> For Termux:
+# For Termux:
 Notice:
 
 git installation methods are not universal and do differ between distributions, so, installing git as per instructions below may not work. Please check out how to install git for your Linux distribution. Commands below provide instructions for Debian-based systems.
@@ -45,7 +45,7 @@ git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
-> For Linux:
+# For Linux:
 Notice:
 
 git installation methods are not universal and do differ between distributions, so, installing git as per instructions below may not work. Please check out how to install git for your Linux distribution. Commands below provide instructions for Debian-based systems.
@@ -57,7 +57,7 @@ git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
-> For macOS:
+# For macOS:
 To use the bomber type the following commands in macOS terminal:
 
 # Install Brew: 
